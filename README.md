@@ -11,16 +11,7 @@ This repository implements two automated CI/CD workflows as per assignment requi
 ## 🏗️ Repository Structure
 *github-actions-assignment/*
 
-├── .github/
-│ └── workflows/
-│ ├── run-script.yml # Shell script execution workflow
-│ └── lint-test.yml # Linting and testing workflow
-├── math.js # Utility functions module
-├── test.js # Test cases implementation
-├── package-locke # exact versions of dependencies
-├── run.sh # Demonstration shell script
-├── package.json # Project configuration
-└── README.md # Documentation
+<img width="999" height="578" alt="image" src="https://github.com/user-attachments/assets/16fcf89b-4253-4b8a-b517-c41c5192abfc" />
 
 
 ## ⚙️ Workflows
