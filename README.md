@@ -1,4 +1,4 @@
-# GitHub Actions CI/CD Assignment
+# GitHub Actions CI/CD Assignment - 06
 
 This repository demonstrates the implementation of two automated CI/CD pipelines using GitHub Actions. The project fulfills the assignment requirements of creating workflows that execute shell scripts and run linting and testing operations.
 
