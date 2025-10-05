@@ -9,7 +9,8 @@ This repository implements two automated CI/CD workflows as per assignment requi
 - **Workflow 2**: Runs linting and testing operations on code changes
 
 ## 🏗️ Repository Structure
-github-actions-assignment/
+*github-actions-assignment/*
+
 ├── .github/
 │ └── workflows/
 │ ├── run-script.yml # Shell script execution workflow
