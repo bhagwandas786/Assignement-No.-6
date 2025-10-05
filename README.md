@@ -11,8 +11,7 @@ This repository implements two automated CI/CD workflows as per assignment requi
 ## 🏗️ Repository Structure
 *github-actions-assignment/*
 
-<img width="999" height="578" alt="image" src="https://github.com/user-attachments/assets/16fcf89b-4253-4b8a-b517-c41c5192abfc" />
-
+<img width="1112" height="286" alt="image" src="https://github.com/user-attachments/assets/df114fa3-e1c2-4ed4-9aa3-4484890dd385" />
 
 ## ⚙️ Workflows
 
